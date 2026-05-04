@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-gradio
+gradio==4.29.0
 langchain
 langchain-core
 langchain-community
